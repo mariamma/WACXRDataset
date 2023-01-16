@@ -12,7 +12,7 @@ covid_binary_test folder contains test images collected from [COVIDNet dataset](
 
 We would to acknowledge XraySetu, IISC Bengaluru, Niramai Health Analytix for their support in conducting this research
 
-
+### Contact
 If you want to use our dataset or for any queries/colloborations, please contact:
 
 mariammaa@iisc.ac.in

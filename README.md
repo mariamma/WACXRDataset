@@ -9,3 +9,8 @@ covid_binary_test folder contains test images collected from [COVIDNet dataset](
 
 Wang L, Lin ZQ, Wong A. Covid-net: A tailored deep convolutional neural network design for detection of covid-19 cases from chest x-ray images. Scientific Reports. 2020 Nov 11;10(1):1-2.
 
+
+For any queries/colloborations, please contact:
+
+mariammaa@iisc.ac.in
+
